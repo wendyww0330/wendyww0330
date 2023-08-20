@@ -1,4 +1,8 @@
 ### Hi there 👋
+✨Bachelor's degree from Computer Science and Technology at Beijing Language and Culture University
+🔭now pursuing for my master degree of scientific computing at Heidelberg University
+
+
 
 <!--
 **wendyww0330/wendyww0330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
