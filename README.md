@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Life is immense!&center=true&size=27"> </a> </h1>
+
 ✨ Bachelor's degree from Computer Science and Technology at Beijing Language and Culture University
 
 
@@ -8,7 +8,7 @@
 
 📫 How to reach me:wenjiang0330@gmail.com
 
-⚡ Fun fact:
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" /> </div>
 <!--
 **wendyww0330/wendyww0330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
